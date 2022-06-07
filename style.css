@@ -1,0 +1,26 @@
+.container {
+  border: 1px solid red;
+  width: 80vw;
+}
+.container h1 {
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+.container .section {
+  display: flex;
+  margin: 15px;
+}
+.container .section .blu, .container .section .rosso {
+  border: 1px solid green;
+  padding: 15px;
+}
+.container .section .blu p {
+  color: blue;
+}
+.container .section .rosso p {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
